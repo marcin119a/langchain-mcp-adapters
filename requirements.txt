@@ -1,0 +1,8 @@
+mcp>=1.0.0
+langchain-mcp-adapters
+langgraph
+openai
+langchain-core
+langchain-openai
+langchain
+pandas
